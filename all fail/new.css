@@ -1,0 +1,420 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  
+  .navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;}
+
+  
+ .logo
+   { font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;}
+  
+  
+  .nav-links
+
+    {list-style: none;
+    display: flex;
+  }
+  
+.nav-links li { margin: 0 15px; 
+  }
+  
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+}
+  
+  
+.nav-links a:hover,
+.nav-links a.active {
+    color: #007bff;
+}
+
+.register-button 
+   { background-color: #6cadf2;
+    color: #110202;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-right: 20px;
+  }
+
+  .register-button:hover,
+  .register-button:active {
+    color: white;
+ }
+  
+
+  
+ .content {
+      padding: 20px;
+    }
+  
+
+    /* banner-section */
+
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  
+.banner {
+    background-color: #f0f0f0;
+    padding: 50px;
+    text-align: left;
+    margin-top: 15px;
+      color: rgb(45, 18, 217);
+  }
+  
+  .banner h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: left;
+
+  }
+  
+  .banner p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: blue;
+    display: flex;
+  }
+  
+  
+  .banner button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+.banner button:hover,
+  .banner button:active {
+    color: rgb(5, 4, 4);
+  }
+  
+  .image-container {
+    width: 50px; 
+    height: 50px;
+    margin-left: 500px;
+    margin-top: 50px;
+    padding: 1px;
+  
+  }
+  
+.image-container img {
+    width:500px;
+    height: auto;
+    position:absolute;
+    top: 130px;
+    right: 50px;
+
+  }
+
+
+  /* our cleaint */
+
+
+
+
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px 0;
+    background-color: #fff;
+  }
+  
+  h1 {
+    font-size: 3em;
+    margin-bottom:50px;
+    color: #007bff;
+    text-align:center;
+
+  }
+  
+p {
+    margin-bottom: 40px;
+    color: #097ef2;
+    text-align: left 20px;
+    font-size: 20px;
+    text-align:center;
+  }
+  
+  .client-logos {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .client-logos img {
+    width: 70px;
+    height: auto;
+    margin: 0px 50px;
+  }
+
+
+/* power of blockchain */
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+ {h1 
+    margin-bottom: 20px;
+    color: #333;
+    margin-top: 50px;
+}
+
+.sector-card {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #c79e9e;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+
+.sector-card:hover {
+    transform: translateY(-5px);
+}
+
+.sector-icon {
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.sector-title {
+    font-size: 18px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.sector-description {
+    color: #0a0202;}
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        margin: 0;
+      }
+      
+      .container {
+        background-color: #F0F0F0; 
+        padding: 20px;
+        margin: 20px auto;
+        max-width: 800px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+      
+      h1 {
+        color: #dc1313;
+        margin-bottom: 20px;
+      }
+      
+      .stats {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 50px;
+      }
+      
+      .stat {
+        text-align: center;
+      }
+      
+      .stat img {
+        width: 50px;
+        height: 50px;
+        margin-bottom: 10px;
+      }
+      
+      .stat h2 {
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+      }
+      
+      .stat p {
+        color: #0e0a0a;
+        margin-top: 5px;
+        font-size: 20px;
+      }
+      
+/* ftu blk chain */
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    width: 80%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 100px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #0e0a0a;
+  }
+  
+  p{
+    color: #0a0202;
+    font-size:20px;
+    margin-top: 50px;
+  }
+  
+  
+  
+  .card {
+    background-color: #e69b9b;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+  }
+  
+  .card img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .read-more {
+    display: inline-block;
+    background-color: #e9eef4;
+    color: #100101;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+/* image form */
+
+  .div1{
+    background-color: #ad7373;
+    height: 100px;
+    width: 500px;
+    margin-top: 30px;
+    padding: 50px;
+    margin-left: 650px;
+    font-size: 25px;
+  }
+
+  /* last paje */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1ebeb;
+    color: #070000;
+  }
+  
+  footer {
+    padding: 50px 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    color: #007bff;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .col {
+    flex: 1;
+    margin-right: 30px;
+  }
+  
+  .col:last-child {
+    margin-right: 0;
+  }
+  
+  h4 {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #993333;
+    text-decoration: none;
+  }
+  
+  .social-icons {
+    margin-top: 20px;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-icons a {
+    font-size: 20px;
+  }
+  
+  form {
+    display: flex;
+  }
+  
+  input[type="email"] {
+    padding: 10px;
+    border: none;
+    border-radius:  3px;
+    background-color: #f0dbdb;
+    color: #fff;
+    flex: 1;
+  }
+  
+  button {
+    background-color: #0f79eb;
+    border: none;
+    border-radius: 0 3px 3px 0;
+    padding: 10px 20px;
+    color: #ede2e2;
+    cursor: pointer;
+  }
+  
+  
